@@ -1,0 +1,3 @@
+# library-go
+author
+tickstep
